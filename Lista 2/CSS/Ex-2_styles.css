@@ -1,0 +1,21 @@
+
+.div1{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(206, 30, 206);
+    height: 250px;
+    width: 100%;
+    
+}
+.div2{
+    background-color: #ce0e88;
+    border: 20px solid red;
+    height: 100%;
+    width: 250px;
+   
+}
+.div3{
+    background-color: #00ffdd;
+    height: 88%;
+    width: 30%;
+}

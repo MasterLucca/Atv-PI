@@ -1,0 +1,41 @@
+.a{
+
+background-color: #e6a5a5; 
+width: 700px; 
+height: 350px;
+
+}
+
+.b{
+
+background-color: #1e771e;
+width: 80%;
+height: 40%;
+
+
+}
+
+.c{
+
+color: rgb(129, 0, 112); 
+background-color: rgb(0, 255, 0); 
+font-size: 35px; 
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ font-weight: bold; 
+
+}
+
+.d{
+
+ background-color: #4b002e ;
+  width: 75%; 
+  height: 20vh;
+}
+
+.e{
+
+ background-color: rgb(241, 5, 5); 
+ width: 20vw;
+  height: 70%;
+
+}
